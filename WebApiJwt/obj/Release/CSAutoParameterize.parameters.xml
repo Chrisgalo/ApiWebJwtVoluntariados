@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ApplicationDbContext-Web.config Connection String" description="ApplicationDbContext Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Server=tcp:gv.database.windows.net,1433;User ID=administrador;Password=4dmon+BD;Initial Catalog=GV; Integrated Security=True;  MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\HOME\\Music\\WebApiJwt\\WebApiJwt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationDbContext']/@connectionString" />
+  </parameter>
+</parameters>

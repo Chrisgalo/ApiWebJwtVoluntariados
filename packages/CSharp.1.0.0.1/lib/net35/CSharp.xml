@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSharp</name>
+    </assembly>
+    <members>
+        <member name="T:CSharp.NativeMethods">
+            <summary>
+            Native Methods
+            </summary>
+        </member>
+        <member name="T:CSharp.SequentialGuid">
+            <summary>
+            Sequential Guid
+            </summary>
+        </member>
+        <member name="M:CSharp.SequentialGuid.NewSequentialGuid">
+            <summary>
+            Sequential Guid
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
